@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 264d4477f8f02eb4492dd198b7a2eb19
+timeCreated: 1513101159
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Tall Films Fine
+  fontNames:
+  - Tall Films Fine
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

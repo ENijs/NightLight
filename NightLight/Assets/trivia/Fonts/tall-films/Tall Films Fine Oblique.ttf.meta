@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 56044d135202fd44db50381bdbc28b1e
+timeCreated: 1513101159
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Tall Films Fine Oblique
+  fontNames:
+  - Tall Films Fine Oblique
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
