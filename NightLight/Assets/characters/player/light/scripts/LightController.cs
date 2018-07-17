@@ -11,14 +11,12 @@ public class LightController : MonoBehaviour {
     public bool LightDecreasebool;
     private Light lighting;
     public float lightingDecrease;
-    public float startIntensityAndRange;
+
 
     // Use this for initialization
     void Start () {
-
         //Get Light
         lighting = GetComponent<Light>();
-        lighting.intensity = startIntensityAndRange;
     }
 	
 	// Update is called once per frame
@@ -41,13 +39,5 @@ public class LightController : MonoBehaviour {
             lighting.range = lighting.intensity;
             //Debug.Log("lightIntensity =" + lighting.intensity);
         }  
-    }
-
-
-
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        lighting.intensity = startIntensityAndRange;
-        Debug.Log("Triggerd intesity");
     }
 }

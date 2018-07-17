@@ -51,8 +51,8 @@ Light:
   serializedVersion: 8
   m_Type: 2
   m_Color: {r: 1, g: 0.8571587, b: 0.5330188, a: 1}
-  m_Intensity: 6.44
-  m_Range: 2.17
+  m_Intensity: 10
+  m_Range: 1
   m_SpotAngle: 75.3
   m_CookieSize: 10
   m_Shadows:
@@ -90,4 +90,3 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   LightDecreasebool: 0
   lightingDecrease: 7
-  startIntensityAndRange: 5
