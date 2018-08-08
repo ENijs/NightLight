@@ -226,7 +226,7 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: motionBlur.m_Settings.frameBlending
-    value: 0
+    value: 0.26
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: eyeAdaptation.m_Enabled
@@ -278,7 +278,7 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: bloom.m_Enabled
-    value: 0
+    value: 1
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: bloom.m_Settings.bloom.intensity
